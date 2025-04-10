@@ -4,3 +4,4 @@ This is a project on clustering based on an online retail data
 it has a large data set with various columns which akes it fun for exploration 
 Exploratory data analysis as performed on  it 
 We were given area of focus which for me and my team mate was on the Country Saudi Arabia 
+We found that December was the month in which a lot of products were bought in Saudi Arabia
